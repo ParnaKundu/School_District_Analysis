@@ -17,7 +17,7 @@ The purpose is to collect data, prepare the data (after cleaning it) and analyse
 
 3. Looking at the summary statistics, it appears that the data is pretty symmetrical. This can be verified by looking at the mean and the median (50%) values of reading score and math score - they are pretty close to each other.
 
-![Summary Statistics](Deliverables/Deliverable 3.png)
+![Summary Statistics](Deliverables/Deliverable%203.png)
 
 4. The average reading score for grades 11 and 12 combined is higher than the average reading score for all grades.
 
